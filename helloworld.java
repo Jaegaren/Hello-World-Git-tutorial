@@ -1,6 +1,6 @@
 package basics;
 
-// Only to print "Hello World!"
+// Only to print "Goodbye World!"
 public class helloworld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
